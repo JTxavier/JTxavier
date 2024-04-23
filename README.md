@@ -25,6 +25,12 @@ width="70px">
 
 | Cursos | Certificados |
 |--------|--------------|
+Formatação com Markdown | [Certificado](https://www.dio.me/certificate/WXOHAZHJ/share)
+Colaboração no Github | [Certificado](https://www.dio.me/certificate/XA2BXXJG/share)
+Autenticações | [Certificado](https://www.dio.me/certificate/TSTAM54Y/share)
+
+-----
+![Tarcísio Xavier GitHub stats](https://github-readme-stats.vercel.app/api?username=JTxavier&show_icons=true&theme=radical)
 
 
 <!--
